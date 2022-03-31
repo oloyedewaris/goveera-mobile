@@ -1,4 +1,4 @@
-package com.example.goveera
+package com.waris.goveera
 
 import io.flutter.embedding.android.FlutterActivity
 
